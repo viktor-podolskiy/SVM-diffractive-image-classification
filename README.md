@@ -10,5 +10,7 @@ see A.Ghosh et.al., ACS Photonics (2021)
 Typical workflow: 
 
 (1) Run makeImgArr.m to generate an array of diffractive signatures of phantom objects
+
 (2) Run img2rphiTheory.m to read the array of images, add optional noise, and save data in polar coordinates
+
 (3) Run rphiTheorySVM.m to train a variety of SVMs and analyze the best combinations of parameters l,m,j to use for object classification
