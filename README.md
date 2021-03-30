@@ -5,7 +5,8 @@ The enclosed files illustrate Support-Vector-Machine-based diffractive imaging w
 see A.Ghosh et.al., ACS Photonics (2021)
 
 (c) 2019-2021 V. Podolskiy, U Mass Lowell
---- for non-commercial use only ---
+
+The code was tested on Matlab R2020b
 
 Typical workflow: 
 
