@@ -2,7 +2,7 @@
 %
 % part of the diffractive image classification with subwavelength resolution project
 % (c) 2021 V. Podolskiy - University of Massachusetts Lowell
-% for non-commercial use only 
+ 
 % see A. Ghosh, et.al., ACS Photonics (2021) for more details 
 
 
